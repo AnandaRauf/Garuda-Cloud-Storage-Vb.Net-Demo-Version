@@ -20,11 +20,12 @@ Garuda Cloud Storage Demo Version
 
 Thanks for using this source code, don't forget click star at My Github Repository and you wanna this source code has been completed developed by me and release, click donate button for am buying some many drink, and food at under this :
 
-[![Donate Here](https://opencollective.com/OpenSID/backers/badge.svg)](#paypal)
-[![Donate Here]<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-[![Donate Here]<input type="hidden" name="cmd" value="_s-xclick" />
-[![Donate Here]<input type="hidden" name="hosted_button_id" value="M2PAQFSADHMTA" />
-[![Donate Here]<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"/>
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M2PAQFSADHMTA)
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="M2PAQFSADHMTA" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"/>
 [![Donate Here]<img alt="" border="0" src="https://www.paypal.com/en_ZA/i/scr/pixel.gif" width="1" height="1"/>
 </form>
 
