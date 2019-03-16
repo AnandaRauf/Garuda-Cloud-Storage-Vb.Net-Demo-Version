@@ -20,7 +20,7 @@ Garuda Cloud Storage Demo Version
 
 Thanks for using this source code, don't forget click star at My Github Repository and you wanna this source code has been completed developed by me and release, click donate button for am buying some many drink, and food at under this :
 
-[![Donate Here](https://opencollective.com/OpenSID/backers/badge.svg)](#backers)
+[![Donate Here](https://opencollective.com/OpenSID/backers/badge.svg)](#paypal)
 [![Donate Here]<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 [![Donate Here]<input type="hidden" name="cmd" value="_s-xclick" />
 [![Donate Here]<input type="hidden" name="hosted_button_id" value="M2PAQFSADHMTA" />
