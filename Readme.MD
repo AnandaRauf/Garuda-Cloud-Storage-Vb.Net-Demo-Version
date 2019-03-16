@@ -18,7 +18,7 @@ Garuda Cloud Storage Demo Version
 - Goes to Compile and then choose release at Configuration.
 - Finally, Exit Properties Project and then click build (build  nameproject)
 
-Thanks for using this source code, don't forget click star at My Github Repository and you wanna this source code has been completed developed by me and release, click donate button for am buying some many drink, and food at under this :
+Thanks for using this source code, don't forget click star at My Github Repository and you wanna this source code has been completed developed by me and release, click donate button for my life needs at under this :
 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M2PAQFSADHMTA)
