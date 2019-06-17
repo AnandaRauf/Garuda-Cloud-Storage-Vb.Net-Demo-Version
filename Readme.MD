@@ -8,6 +8,9 @@ Garuda Cloud Storage Demo Version
 
 - Install Visual Studio 2015 Community, download at : https://visualstudio.microsoft.com/vs/older-downloads/
 - Install Microsoft Sql Server 2014, download at : https://www.microsoft.com/en-us/download/details.aspx?id=42299
+- Install Package Manager Google Drive Api in visual studio 
+- Login your Google account to Google Developer, Choose Google Api, you can visit : 
+https://developers.google.com/drive/api/v3/quickstart/dotnet
 - Open Visual Studio 2015
 - Press Ctrl + O in your keyboard or klik files menu and klik open projects
 - Choose project file (File Extension .sln and .vbproj)
