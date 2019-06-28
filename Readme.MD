@@ -12,7 +12,7 @@ Garuda Cloud Storage Demo Version
 - Login your Google account to Google Developer, Choose Google Api, you can visit : 
 https://developers.google.com/drive/api/v3/quickstart/dotnet
 - Open Visual Studio 2015
-- Press Ctrl + O in your keyboard or klik files menu and klik open projects
+- Press Ctrl + O in your keyboard or click files menu and click open projects
 - Choose project file (File Extension .sln and .vbproj)
 - Press Ctrl +Alt + S in your keyboard for open server explorer 
 - Eksport your database in server explorer, and then choose database db_dashboardSaveFile.mdf at folder Database SQL Server 2014
